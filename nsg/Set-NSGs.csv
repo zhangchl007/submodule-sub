@@ -1,0 +1,1 @@
+dotnet-nsg,Deny-SSH-22,200,Deny,TCP,Inbound,0.0.0.0,8080,10.1.0.4,22
